@@ -47,7 +47,7 @@ streamlit run app.py
 
 ## Author
 
-**Sanju**
+**Sahaya Shanu**
 
 B.Tech Artificial Intelligence and Data Science
 
